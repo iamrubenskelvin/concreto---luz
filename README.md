@@ -34,7 +34,7 @@
 <h2>👨‍💻 Desenvolvedor</h2>
     <p>Desenvolvido por Rubens Kelvin</p>
     <br>
-    <a href="https://www.linkedin.com/in/iamrubenskelvin/">Linkedin</a>
+    <a href="https://www.linkedin.com/in/iamrubenskelvin/">Linkedin:</a>
     <br>
     <a href="https://github.com/iamrubenskelvin">GitHub:</a>
     
