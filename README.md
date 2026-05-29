@@ -3,7 +3,7 @@
   <p>Site institucional desenvolvido para apresentar os serviços da EH Construções, destacando projetos, reformas, móveis planejados e atendimento personalizado.</p>
 <br>
 
-<img src="https://github.com/iamrubenskelvin/concreto---luz/blob/main/assets/imagem%20desktop%20sem%20fundo.png"/>
+<img src="https://github.com/iamrubenskelvin/concreto---luz/blob/main/assets/Imagem%20desktop.png"/>
 
 
 <h2>🚀 Sobre o Projeto</h2> <br>
