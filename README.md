@@ -13,7 +13,6 @@
 <h2>✨ Funcionalidades</h2>
   <ul>
     <li>Página inicial com destaque para a empresa</li>
-    <li>Apresentação dos serviços </li>
     <li>Galeria de projetos</li>
     <li>Formulário de contato</li>
     <li>Botão flutuante para WhatsApp</li>
